@@ -1,6 +1,6 @@
 ### Hi there 👋 Nice to see u.
 
-- 😄 My name is: Napat
+- 😄 My name is: Napat Mueangnakin
 - ⚡ Student id: 63363096
 - 🔭 I'm currently studying on Faculty of Engineering.
 
