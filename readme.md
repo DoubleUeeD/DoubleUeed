@@ -3,6 +3,8 @@
 - 😄 My name is: Napat Mueangnakin
 - ⚡ Student id: 63363096
 - 🔭 I'm currently studying on Faculty of Engineering.
+- 💻 The jobs I am interested in : Web developer & Game Dev.
+- ⚙️ The subject in the Computer Engineering program that I am interested in is Computer Network, Computer Programing
 
 ## Developer Tech
 
@@ -54,3 +56,5 @@
     <img src="svg/devices/pc.svg" alt="pc" style="vertical-align:top; margin:6px 4px">
   </a>
 </p>
+<br>
+<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="100%"/>
